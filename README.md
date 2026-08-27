@@ -34,7 +34,7 @@ I build dependable software for healthcare, education, commerce, and consulting 
 | [**Sci Bridge**](https://sci-bridge.org/) | Scientific learning platform with video courses, live rooms, payments, email automation, and instant certificates. | React · Node.js · Jitsi Meet · Brevo · PDF Automation |
 | [**Innovera Pharma**](https://innovera-pharma.com/) | Custom pharmaceutical storefront built without off-the-shelf theme bloat. | Shopify CLI · Liquid · JavaScript · CSS · Storefront API |
 | [**Tahfiz Quran Academy**](https://tahfizquran.org/) | Bilingual 1-on-1 learning platform with timezone-aware booking, recurring lessons, subscriptions, and certificates. | Next.js · Node.js · Stripe · Zoom API · RTL/LTR |
-| [**Techno Core**](https://bta3al3ab.online/) | Arabic gaming and media platform with game discovery and a custom PC compatibility engine. | PHP · MySQL · JavaScript · REST · SEO |
+| [**Techno Core**](https://bta3al3ab.online/) | Arabic gaming and media platform with game discovery and a custom PC compatibility engine. | MySQL · JavaScript · REST · SEO |
 
 <details>
 <summary><strong>More shipped products</strong></summary>
@@ -58,12 +58,10 @@ I build dependable software for healthcare, education, commerce, and consulting 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### Backend, data & infrastructure
@@ -73,6 +71,7 @@ I build dependable software for healthcare, education, commerce, and consulting 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -85,28 +84,17 @@ I build dependable software for healthcare, education, commerce, and consulting 
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Jitsi](https://img.shields.io/badge/Jitsi_Meet-97979A?style=for-the-badge&logo=jitsi&logoColor=white)
 ![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
 ## Featured repositories
 
-<div align="center">
-
-<a href="https://github.com/MGaweesh/bta3-al3ab-backend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MGaweesh&repo=bta3-al3ab-backend&theme=tokyonight&hide_border=true" alt="bta3-al3ab-backend repository" />
-</a>
-<a href="https://github.com/MGaweesh/Dr-Gaweesh">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MGaweesh&repo=Dr-Gaweesh&theme=tokyonight&hide_border=true" alt="Dr-Gaweesh repository" />
-</a>
-<a href="https://github.com/MGaweesh/Medreminder2026bot">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MGaweesh&repo=Medreminder2026bot&theme=tokyonight&hide_border=true" alt="Medreminder2026bot repository" />
-</a>
-<a href="https://github.com/MGaweesh/Obelisk-Solutions">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MGaweesh&repo=Obelisk-Solutions&theme=tokyonight&hide_border=true" alt="Obelisk Solutions repository" />
-</a>
-
-</div>
+| | |
+|:---|:---|
+| 🎮 [**bta3-al3ab-backend**](https://github.com/MGaweesh/bta3-al3ab-backend)<br>Full-stack Arabic gaming platform.<br>`JavaScript` `Node.js` `REST` | 🧪 [**Dr-Gaweesh**](https://github.com/MGaweesh/Dr-Gaweesh)<br>My portfolio and product showcase.<br>`TypeScript` `React` `CSS` |
+| 💊 [**Medreminder2026bot**](https://github.com/MGaweesh/Medreminder2026bot)<br>Medication reminders with persistent scheduling.<br>`Python` `SQLite` `Telegram` | 🌍 [**Obelisk-Solutions**](https://github.com/MGaweesh/Obelisk-Solutions)<br>Multilingual consulting company website.<br>`HTML` `CSS` `JavaScript` |
 
 ---
 
@@ -120,7 +108,7 @@ I build dependable software for healthcare, education, commerce, and consulting 
 | Repository | What is inside | Main technology |
 |---|---|---|
 | [**bta3-al3ab-backend**](https://github.com/MGaweesh/bta3-al3ab-backend) | Full-stack source for the Arabic gaming platform, split into dedicated frontend and backend applications. | JavaScript · Node.js |
-| [**Dr-Gaweesh**](https://github.com/MGaweesh/Dr-Gaweesh) | Source code for my current portfolio and project showcase. | TypeScript · Vite · CSS |
+| [**Dr-Gaweesh**](https://github.com/MGaweesh/Dr-Gaweesh) | Source code for my current portfolio and project showcase. | TypeScript · React · CSS |
 | [**Eyadaty**](https://github.com/MGaweesh/eyadaty) | Official releases and automatic update channel for an integrated Windows clinic-management application. | Windows Desktop · GitHub Releases |
 | [**Medreminder2026bot**](https://github.com/MGaweesh/Medreminder2026bot) | Telegram medication-reminder bot with daily and interval schedules, persistent storage, and tests. | Python · SQLite · Telegram API |
 | [**Crypto**](https://github.com/MGaweesh/Crypto) | Cryptocurrency strategy experiments, ETH signal generation, datasets, and backtesting tools. | Python · Data Analysis |
@@ -138,8 +126,10 @@ I build dependable software for healthcare, education, commerce, and consulting 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MGaweesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Muhammad's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGaweesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad's most used languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MGaweesh&theme=tokyonight" alt="Muhammad's GitHub profile summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MGaweesh&theme=tokyonight" alt="Muhammad's GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MGaweesh&theme=tokyonight" alt="Top languages by repository" />
 
 </div>
 
